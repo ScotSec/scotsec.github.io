@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Scotsec # the main title
 
-tagline: An engineer learning to break things in the digital world instead of fixing them in the physical world. # it will display as the subtitle
+tagline: An engineer learning to break things in the digital world instead of fixing them in the physical one. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Cybersecurity/Ethical Hacking blogs and writeups.
