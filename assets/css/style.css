@@ -1,3 +1,14 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == ' production ' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
 @font-face {
   font-family: 'icomoon';
   src: url('/assets/fonts/icomoon.eot?bbd21w');
@@ -26,9 +37,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-htb:before {
+.icon-htb .path1:before {
   content: '\e900';
+  color: rgb(255, 255, 255);
 }
-.icon-htb-inverted:before {
+.icon-htb .path2:before {
   content: '\e901';
+  margin-left: -1em;
+  color: rgb(120, 120, 120);
 }
