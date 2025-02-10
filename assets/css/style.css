@@ -26,12 +26,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-htb .path1:before {
+.icon-htb:before {
   content: '\e900';
-  color: rgb(255, 255, 255);
 }
-.icon-htb .path2:before {
+.icon-htb-inverted:before {
   content: '\e901';
-  margin-left: -1em;
-  color: rgb(120, 120, 120);
 }
