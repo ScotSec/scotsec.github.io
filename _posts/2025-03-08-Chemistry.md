@@ -1,6 +1,6 @@
 ---
 title: HackTheBox - Chemistry
-date: 2025-03-08 16:00:00 +/-0000
+date: 2025-03-08 15:00:00 +/-0000
 categories: [HackTheBox, Linux]
 tags: [hackthebox, easy, web, linux]     # TAG names should always be lowercase
 description: In Chemistry we attack a Linux starting by exploiting a RCE in a CIFs analyzer.
