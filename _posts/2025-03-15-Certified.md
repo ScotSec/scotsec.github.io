@@ -1,6 +1,6 @@
 ---
 title: HackTheBox - Certified
-date: 2025-03-12 15:00:00 +/-0000
+date: 2025-03-15 15:00:00 +/-0000
 categories: [HackTheBox, Windows]
 tags: [hackthebox, medium, activedirectory, windows, adcs]     # TAG names should always be lowercase
 description: Certified is an assumed breach scenario in active directory with a complex attack chain exploiting various misconfigurations. 
