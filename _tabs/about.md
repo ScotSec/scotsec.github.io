@@ -19,7 +19,7 @@ There is quite a difference between these careers, but I am hoping to leverage s
 
 I have worked in various industries as an electrical engineer, including FMCG, brewing, and packaging. This involved everything from general planned and breakdown maintenance to programming and fault-finding on PLCs, as well as project work.
 
-As an operations technician, I worked in Scotland’s only oil refinery, which was a top-tier COMAH site and considered critical national infrastructure. Its closure prompted me to pursue a career in penetration testing. In this role, I was responsible for the day-to-day operations of the refinery, control of work, creating and reviewing procedures, projects, and permits.
+My employers closure prompted me to pursue a career in penetration testing.
 
 Though I was a long-time hobbyist, I started this journey with no formal IT or cybersecurity experience in January 2024. I hadn’t even used Linux before I started, so there was quite a learning curve. Hopefully, I can show that it is possible to start a career in penetration testing from scratch if you are willing to put in the time and effort while utilizing skills from previous roles.
 
