@@ -32,6 +32,8 @@ Since then I've been `working as a pentester`, doing all sorts of work, anything
 
 I would say that `I progressed quite quickly at work`, gaining a reputation for having a knack at `pulling off some interesting and complex exploit chains`. This was highlighted by me `discovering my first (and currently only) CVE` on one job, [CVE-2025-10659](https://www.cve.org/CVERecord?id=CVE-2025-10659),  which was a CVSS v3.1 `9.8 - CRITICAL` this even came with an `ICS advisory from CISA` ([link](https://www.cisa.gov/news-events/ics-advisories/icsa-25-273-01)) due to the type of sector that the affected software is used within. The `responsible disclosure process was nice and smooth with CISA, no complaints`. The CVE basically allows an unauthenticated attacker on the network to obtain remote code execution in the context of the software service account, pretty bad! The vendor resolved this pretty quickly and due to the sensitive nature of the CVE and it coming from one our clients, I didn't think that disclosing the exploit details was the right thing to do, I think the UK has seen enough OT and ICS attacks recently.
 
+![](/assets/img/posts/progresstwo/cve.png)
+
 ### ProgressTwo
 
 Anyway, I did a year and bit of good hacking and consulting, recently getting promoted to `Senior Penetration Tester`, nice.
@@ -39,6 +41,7 @@ Anyway, I did a year and bit of good hacking and consulting, recently getting pr
 During this time I continued keeping up to date with my studying, achieving `CAPE`, `OSEP` and `CRTO`, in addition to the UK specific things like `CSTM`, `CTM` and my UKCSC professional title `PraCSP`.
 
 Moving on...
+
 
 # OSEP vs CAPE - The part you actually came here for!
 
@@ -59,6 +62,7 @@ Moving on...
 
 **WINNER**: `OSEP` - The challenge labs are just too good. 
 
+![](/assets/img/posts/progresstwo/osep.png)
 
 ### Exam
 
@@ -77,6 +81,7 @@ Moving on...
 
 **WINNER**: `CAPE`
 
+![](/assets/img/posts/progresstwo/CAPE.png)
 
 # TLDR / Conclusion
 
@@ -95,7 +100,7 @@ For both exams I used `Sliver C2` and a custom shellcode loader, plus some other
 
 # What am I doing now?
 
-At the moment I am continuing to develop my `red teaming and adversary simulation skills`, keeping up to date with HTB where possible and working on learning `C` and malware development on `MalDev Academy`. If I find the time I would also like to publish another blog post about some techniques and tooling that I have created for evasion and bypassing `WDAC`. But we will see!
+At the moment I am continuing to develop my `red teaming and adversary simulation skills`, keeping up to date with HTB where possible and working on learning `C` and malware development on `MalDev Academy`. As I mentioned at the start I completed `CRTO` after doing both `CAPE` and `OSEP`. Once I spend some more time doing maldev the plan is to tackle `CRTL` and if I find the time I would also like to publish another blog post about some techniques and tooling that I have created for evasion and bypassing `WDAC`. But we will see!
 
 Thanks for reading!
 
