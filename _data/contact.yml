@@ -22,7 +22,7 @@
 
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "https://www.linkedin.com/in/scott-sheach-9b6234162/" # Fill with your Linkedin homepage
+  url: "https://www.linkedin.com/in/scott-sheach/" # Fill with your Linkedin homepage
 
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
@@ -40,10 +40,10 @@
 #   icon: 'fa-brands fa-threads'
 #   url: ''                   # Fill with your Threads profile link
 
-- type: discord
-  icon: "fa-brands fa-discord"
-  url: "https://discordapp.com/users/230626588788654080"
+# - type: discord
+#   icon: "fa-brands fa-discord"
+#   url: "https://discordapp.com/users/"
 
 - type: hackthebox
   icon: "fa-solid fa-cube"
-  url: "https://app.hackthebox.com/profile/1807684"
+  url: "https://profile.hackthebox.com/profile/019c60f1-f056-7060-af82-7dca5dc017ae"
